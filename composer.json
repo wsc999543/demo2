@@ -1,0 +1,14 @@
+{
+    "name": "wsc999543/demo2",
+    "description": "this is test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chenzy",
+            "email": "chenzhaoyu1989@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
